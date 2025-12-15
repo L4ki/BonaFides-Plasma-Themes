@@ -1,0 +1,22 @@
+/* Changes for Modern theme 
+  (this should work, i guess) */
+
+/* Settings for header/titlebar */
+.raven .raven-header.top, .titlebar:not(headerbar), headerbar { 
+  padding: 0px 6px;
+  min-height: 24px;
+  border-radius: 8px 8px 0 0;
+  background: linear-gradient(to top, #232f41, #232f41);
+}
+
+.titlebar:not(headerbar) separator { 
+  background: #4d678f;
+}
+
+.default-decoration.titlebar:not(headerbar), headerbar.default-decoration { 
+  min-height: 24px; 
+  padding: 8px 8px;
+  border-radius: 8px 8px 0 0; 
+}
+
+

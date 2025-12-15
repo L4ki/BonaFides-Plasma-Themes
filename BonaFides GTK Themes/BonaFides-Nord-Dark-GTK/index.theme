@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=BonaFides-Nord-Dark-GTK
+Type=X-GNOME-Metatheme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=BonaFides-Nord-Dark-GTK
+MetacityTheme=BonaFides-Nord-Dark-GTK
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
