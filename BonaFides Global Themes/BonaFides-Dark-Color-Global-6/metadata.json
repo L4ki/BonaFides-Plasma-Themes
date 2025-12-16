@@ -1,0 +1,36 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "BonaFides-Dark-Color-Global-6",
+        "Description": "BonaFides-Dark-Color-Global For Plasma 6 by l4k1",
+        "Id": "BonaFides-Dark-Color-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/BonaFides-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://plasma-themes.knsrc/api.kde-look.org/2334845",
+        "kns://icons.knsrc/api.kde-look.org/2334840",
+        "kns://icons.knsrc/api.kde-look.org/2334838",
+        "kns://icons.knsrc/api.kde-look.org/2234790",
+        "kns://icons.knsrc/api.kde-look.org/2321773",
+        "kns://aurorae.knsrc/api.kde-look.org/2334834",
+        "kns://aurorae.knsrc/api.kde-look.org/2334835",
+        "kns://colorschemes.knsrc/api.kde-look.org/2334821",
+        "kns://colorschemes.knsrc/api.kde-look.org/2334816",
+        "kns://colorschemes.knsrc/api.kde-look.org/2334812",
+        "kns://wallpaper.knsrc/api.kde-look.org/2334789",
+        "kns://sddmtheme.knsrc/api.kde-look.org/2334793"
+    ]
+}
