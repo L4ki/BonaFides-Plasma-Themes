@@ -1,0 +1,33 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "l4k1987@gmail.com",
+                "Name": "l4k1"
+            }
+        ],
+        "Category": "Global Themes (Plasma 6)",
+        "ServiceTypes": [
+            "Plasma/LookAndFeel"
+        ],
+        "EnabledByDefault": true,
+        "Name": "BonaFides-Rounded-Global-6",
+        "Description": "BonaFides-Rounded-Global Theme For Plasma 6 by l4k1",
+        "Id": "BonaFides-Rounded-Global-6",
+        "Version": "1.0",
+        "License": "GPLv3",
+        "Website": "https://github.com/L4ki/BonaFides-Plasma-Themes"
+    },
+    "X-KPackage-Dependencies": [
+        "kns://plasma-themes.knsrc/api.kde-look.org/2347267",
+        "kns://icons.knsrc/api.kde-look.org/2346341",
+        "kns://icons.knsrc/api.kde-look.org/2346339",
+        "kns://icons.knsrc/api.kde-look.org/2234790",
+        "kns://icons.knsrc/api.kde-look.org/2234789",
+        "kns://aurorae.knsrc/api.kde-look.org/2334834",
+        "kns://aurorae.knsrc/api.kde-look.org/2334835",
+        "kns://colorschemes.knsrc/api.kde-look.org/1733281",
+        "kns://wallpaper.knsrc/api.kde-look.org/2334789"
+    ]
+}
