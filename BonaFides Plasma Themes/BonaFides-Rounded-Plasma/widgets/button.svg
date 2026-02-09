@@ -30,8 +30,8 @@
      inkscape:pagecheckerboard="0"
      showgrid="true"
      inkscape:zoom="1.4142136"
-     inkscape:cx="108.54089"
-     inkscape:cy="-44.547725"
+     inkscape:cx="12.374368"
+     inkscape:cy="33.234017"
      inkscape:window-width="1920"
      inkscape:window-height="996"
      inkscape:window-x="0"
@@ -715,7 +715,7 @@
      ry="0" />
   <rect
      id="toolbutton-hover-hint-left-margin"
-     style="opacity:1;fill:#008080;fill-opacity:1;stroke-width:1"
+     style="opacity:1;fill:#008080;fill-opacity:1;stroke-width:0.999997"
      width="2"
      height="4"
      x="16.099575"
@@ -723,14 +723,14 @@
      transform="rotate(-90)" />
   <rect
      id="toolbutton-hover-hint-top-margin"
-     style="opacity:1;fill:#008080;fill-opacity:1;stroke-width:1"
+     style="opacity:1;fill:#008080;fill-opacity:1;stroke-width:0.999997"
      width="2"
      height="4"
      x="101.04548"
      y="-30.099581" />
   <rect
      id="toolbutton-hover-hint-right-margin"
-     style="opacity:1;fill:#008080;fill-opacity:1;stroke-width:0.999991"
+     style="opacity:1;fill:#008080;fill-opacity:1;stroke-width:0.999987"
      width="2"
      height="4"
      x="16.099579"
@@ -738,7 +738,7 @@
      transform="rotate(-90)" />
   <rect
      id="toolbutton-hover-hint-bottom-margin"
-     style="opacity:1;fill:#008080;fill-opacity:1;stroke-width:1.00001"
+     style="opacity:1;fill:#008080;fill-opacity:1;stroke-width:1"
      width="2"
      height="4"
      x="101.04548"
@@ -1369,32 +1369,35 @@
      width="1.9999999"
      id="toolbutton-focus-hint-bottom-margin"
      style="fill:#ffff00;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.223607" />
+  <g
+     id="toolbutton-pressed-center">
+    <path
+       d="m 172.99997,23.00016 v -0.99998 h -0.99998 v 0.99998 z"
+       id="path1"
+       style="opacity:1;fill:#5f8dd3;fill-opacity:0.2;stroke-width:0.03125" />
+  </g>
   <path
-     d="m 172.99997,23.00016 v -0.99998 h -0.99998 v 0.99998 z"
-     id="toolbutton-pressed-center"
-     style="opacity:1;fill:#5f8dd3;fill-opacity:0.2;stroke-width:0.03125" />
-  <path
-     style="stroke-width:0.999996"
+     style="fill:#008080;stroke-width:1.00001"
      id="toolbutton-pressed-hint-top-margin"
-     d="m 171.76612,-2.9483799 h 2 v 4 h -2 z"
+     d="m 169,-33 h 2 v 4 h -2 z"
      fill="#ff00ff"
      fill-rule="evenodd" />
   <path
-     style="stroke-width:0.999996"
+     style="fill:#008080;stroke-width:1.00001"
      id="toolbutton-pressed-hint-bottom-margin"
-     d="m 168.76613,44.05166 h 2 v 4 h -2 z"
+     d="m 169.26613,-13.047581 h 2 v 4.0000003 h -2 z"
      fill="#ff00ff"
      fill-rule="evenodd" />
   <path
-     style="stroke-width:0.999996"
+     style="fill:#008080;stroke-width:0.999997"
      id="toolbutton-pressed-hint-left-margin"
-     d="m 147.26613,22.05173 h 4 v 2 h -4 z"
+     d="m 159.75,-22 h 4 v 2 h -4 z"
      fill="#ff00ff"
      fill-rule="evenodd" />
   <path
-     style="stroke-width:0.999996"
+     style="fill:#008080;stroke-width:0.999997"
      id="toolbutton-pressed-hint-right-margin"
-     d="m 193.26615,23.0516 h 4 v 2 h -4 z"
+     d="m 176,-22 h 4 v 2 h -4 z"
      fill="#ff00ff"
      fill-rule="evenodd" />
   <g

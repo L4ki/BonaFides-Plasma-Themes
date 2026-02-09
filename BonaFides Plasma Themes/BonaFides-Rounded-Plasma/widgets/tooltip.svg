@@ -6,8 +6,8 @@
    inkscape:version="1.4.3 (unknown)"
    version="1.1"
    id="svg2"
-   height="78"
-   width="78"
+   height="82"
+   width="82"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -875,7 +875,7 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="994"
+     inkscape:window-height="996"
      inkscape:window-width="1920"
      fit-margin-bottom="0"
      fit-margin-right="0"
@@ -884,13 +884,13 @@
      showgrid="true"
      inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="40.216696"
-     inkscape:cx="36.902134"
-     inkscape:zoom="11.313709"
+     inkscape:cy="102.99999"
+     inkscape:cx="100.24999"
+     inkscape:zoom="2.0000001"
      inkscape:pageshadow="2"
      inkscape:pageopacity="1"
      borderopacity="0.98823529"
-     bordercolor="#000000"
+     bordercolor="#797979"
      pagecolor="#141c29"
      id="base"
      inkscape:pagecheckerboard="true"
@@ -925,14 +925,14 @@
      inkscape:label="Capa 1">
     <g
        id="center"
-       transform="matrix(0.99999108,0,0,1,-245.98868,-59.999901)">
+       transform="matrix(1.2812331,0,0,1.2812445,-597.88391,-375.57004)">
       <rect
          y="1114.1593"
          x="1243.3292"
          height="29.999998"
          width="29.999889"
          id="rect1168"
-         style="stroke-width:0.749998;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.8;"
+         style="opacity:0.8;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.749998"
          class="ColorScheme-Background" />
     </g>
     <path
@@ -942,7 +942,7 @@
        id="path3100"
        inkscape:connector-curvature="0" />
     <g
-       transform="matrix(0,0.74999998,1,0,65.170275,335.16227)"
+       transform="matrix(0,0.96093616,1.2812483,0,-225.68521,112.6957)"
        id="mask-left">
       <g
          id="g1068"
@@ -966,7 +966,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0,0.74999996,-1,0,2197.489,335.16229)"
+       transform="matrix(0,0.96093614,-1.2812483,0,2506.3444,112.69574)"
        id="mask-right">
       <g
          transform="matrix(0,-1.9999932,-1.1111111,0,2241.0653,1144.1591)"
@@ -990,7 +990,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.74999988,0,0,-1,308.33249,2224.319)"
+       transform="matrix(0.96093604,0,0,-1.2812483,85.865951,2533.1744)"
        id="mask-bottom">
       <g
          transform="matrix(0,-1.9999932,-1.1111111,0,2241.0653,1144.1591)"
@@ -1014,7 +1014,7 @@
       </g>
     </g>
     <g
-       transform="matrix(0.75000001,0,0,1,308.33234,92.000089)"
+       transform="matrix(0.96093621,0,0,1.2812483,85.865763,-198.85541)"
        id="mask-top">
       <g
          id="g1118"
@@ -1039,7 +1039,7 @@
     </g>
     <g
        id="mask-center"
-       transform="translate(117.00001,89.000036)">
+       transform="matrix(1.2812483,0,0,1.2812483,-159.27845,-202.69923)">
       <rect
          style="opacity:1;fill:#21222c;fill-opacity:1;stroke:none;stroke-width:0.792555"
          width="30"
@@ -1078,7 +1078,7 @@
        x="1219.3584"
        y="-1016.9297" />
     <g
-       transform="matrix(1.4166598,0,0,1.4166598,-436.55826,-344.54986)"
+       transform="matrix(1.8150929,0,0,1.8150929,-868.50855,-758.19618)"
        id="mask-topright">
       <rect
          style="fill:#00ffff;fill-opacity:0"
@@ -1099,7 +1099,7 @@
     </g>
     <g
        id="topleft"
-       transform="matrix(0.99999108,0,0,1,-1.9912736,-90.999935)">
+       transform="matrix(1.2812331,0,0,1.2812445,-285.26356,-415.28866)">
       <rect
          style="fill:#00ffff;fill-opacity:0"
          id="rect1096-6"
@@ -1110,19 +1110,19 @@
          transform="scale(-1,1)" />
       <path
          id="path1005-6-6"
-         style="stroke-width:33.7306;fill-opacity:1;fill:currentColor;opacity:0.8;"
+         style="opacity:0.8;fill:currentColor;fill-opacity:1;stroke-width:33.7306"
          d="m 999.3294,1135.1595 v 2 l 2e-4,7.9999 h -8.00012 -1.99998 v -1 c 0,-4.986 4.01396,-8.9999 8.99991,-8.9999 z"
          sodipodi:nodetypes="cccccssc"
          class="ColorScheme-Background" />
       <path
          id="path972-5-9-1-6-3"
-         style="stroke-width:1.66665;stroke:none;fill-opacity:0.25098041;fill:#5f8dd3;opacity:1"
+         style="opacity:1;fill:#5f8dd3;fill-opacity:0.25098;stroke:none;stroke-width:1.66665"
          d="m 999.3294,1135.1595 h -0.99999 c -4.99978,0 -8.99991,3.9998 -8.99991,8.9997 v 1.0002 h 1.00005 c -8e-5,-5.6408 3.40347,-9.0174 8.99985,-9 z"
          sodipodi:nodetypes="csscccc"
          class="ColorScheme-Text" />
     </g>
     <g
-       transform="matrix(1.4166598,0,0,-1.4166598,-436.55826,2660.8687)"
+       transform="matrix(1.8148796,0,0,-1.8150929,-868.26752,3092.5148)"
        id="mask-bottomright">
       <rect
          style="fill:#00ffff;fill-opacity:0"
@@ -1142,7 +1142,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-1.4166598,0,0,-1.4166598,2699.2052,2660.8779)"
+       transform="matrix(-1.8150929,0,0,-1.8150929,3149.1674,3092.5148)"
        id="mask-bottomleft">
       <rect
          style="fill:#00ffff;fill-opacity:0"
@@ -1162,7 +1162,7 @@
       </g>
     </g>
     <g
-       transform="matrix(-1.4166598,0,0,1.4166598,2699.2052,-344.55915)"
+       transform="matrix(-1.8150929,0,0,1.8150929,3149.1674,-758.19618)"
        id="mask-topleft">
       <rect
          style="fill:#00ffff;fill-opacity:0"
@@ -1183,7 +1183,7 @@
     </g>
     <g
        id="topright"
-       transform="matrix(0.99999108,0,0,1,-1.9912736,-90.999935)">
+       transform="matrix(1.2812331,0,0,1.2812445,-285.26356,-415.28866)">
       <rect
          style="fill:#00ffff;fill-opacity:0"
          id="rect1096-6-3"
@@ -1193,20 +1193,20 @@
          y="1128.1594" />
       <path
          id="path1005-6-6-0"
-         style="stroke-width:33.7313;fill-opacity:1;fill:currentColor;opacity:0.8;"
+         style="opacity:0.8;fill:currentColor;fill-opacity:1;stroke-width:33.7313"
          d="m 1029.3297,1135.1595 v 2 l -2e-4,7.9999 h 8.0004 2.0001 v -1 c 0,-4.986 -4.0141,-8.9999 -9.0003,-8.9999 z"
          sodipodi:nodetypes="cccccssc"
          class="ColorScheme-Background" />
       <path
          id="path972-5-9-1-6-3-7-3-6"
-         style="stroke-width:1.66675;stroke:none;fill-opacity:0.25098041;fill:#5f8dd3;opacity:1"
+         style="opacity:1;fill:#5f8dd3;fill-opacity:0.25098;stroke:none;stroke-width:1.66675"
          d="m 1039.3305,1145.1593 v -0.9999 c 0,-5.0001 -4.0005,-8.9999 -9.0008,-8.9999 h -1.0003 v 0.9999 c 5.5972,-0.017 9.0002,3.3815 9.0002,8.9999 z"
          sodipodi:nodetypes="csscccc"
          class="ColorScheme-Text" />
     </g>
     <g
        id="bottomright"
-       transform="matrix(0.99999108,0,0,1,-1.9912736,-90.999935)">
+       transform="matrix(1.2812331,0,0,1.2812445,-285.26292,-415.28866)">
       <g
          id="g10"
          transform="matrix(1,0,0,-1,-82.999531,2230.3188)">
@@ -1222,7 +1222,7 @@
            transform="translate(-71.000001,-5.00004)">
           <path
              id="path1005-6-5"
-             style="stroke-width:33.7309;fill-opacity:1;fill:currentColor;opacity:0.8;"
+             style="opacity:0.8;fill:currentColor;fill-opacity:1;stroke-width:33.7309"
              d="m 1183.3294,1050.1594 v 2 7.9999 h 8.0001 2 v -1 c 0,-4.9859 -4.014,-8.9999 -9,-8.9999 z"
              sodipodi:nodetypes="cccccssc"
              class="ColorScheme-Background" />
@@ -1230,14 +1230,14 @@
       </g>
       <path
          id="path972-5-9-1-6-3-7-3-9"
-         style="stroke-width:1.66673;stroke:none;fill-opacity:0.25098041;fill:#5f8dd3;opacity:1"
+         style="opacity:1;fill:#5f8dd3;fill-opacity:0.25098;stroke:none;stroke-width:1.66673"
          d="m 1029.3295,1185.1594 h 1.0001 c 5.0004,0 9.0008,-4.0001 9.0008,-8.9996 v -1.0002 h -1.0008 c 0,5.6407 -3.3591,8.9998 -9.0001,8.9998 z"
          sodipodi:nodetypes="csscccc"
          class="ColorScheme-Text" />
     </g>
     <g
        id="bottomleft"
-       transform="matrix(0.99999108,0,0,1,-1.9912736,-90.999935)">
+       transform="matrix(1.2812331,0,0,1.2812445,-285.26356,-415.28866)">
       <g
          id="g8"
          transform="rotate(180,1055.8296,1115.1595)">
@@ -1253,7 +1253,7 @@
            transform="translate(-71.000001,-5.00004)">
           <path
              id="path1005-6-5-7"
-             style="stroke-width:33.7305;fill-opacity:1;fill:currentColor;opacity:0.8;"
+             style="opacity:0.8;fill:currentColor;fill-opacity:1;stroke-width:33.7305"
              d="m 1183.3297,1050.1594 v 2 8.0001 l 7.9998,-2e-4 h 2 v -1 c 0,-4.9859 -4.0139,-8.9999 -8.9998,-8.9999 z"
              sodipodi:nodetypes="cccccssc"
              class="ColorScheme-Background" />
@@ -1261,14 +1261,14 @@
       </g>
       <path
          id="path972-5-9-1-6-3-7-3-9-2"
-         style="stroke-width:1.66657;stroke:none;fill-opacity:0.25098041;fill:#5f8dd3;opacity:1"
+         style="opacity:1;fill:#5f8dd3;fill-opacity:0.25098;stroke:none;stroke-width:1.66657"
          d="m 989.33019,1175.1596 v 1 c 0,4.9998 3.99931,9 8.99864,9 h 1.00007 l 6e-4,-1.0002 c -5.54936,0 -9.00003,-3.4419 -8.99995,-8.9998 z"
          sodipodi:nodetypes="csscccc"
          class="ColorScheme-Text" />
     </g>
     <g
        id="left"
-       transform="matrix(0.99999108,0,0,0.74999989,-1.9912736,199.0399)">
+       transform="matrix(1.2812331,0,0,0.96093327,-285.26356,-43.676653)">
       <g
          transform="matrix(-1,0,0,1.1111109,2191.6593,-36.684112)"
          id="g9">
@@ -1277,7 +1277,7 @@
            transform="matrix(0,0.99999908,-1,0,2249.489,-99.168938)">
           <path
              id="rect1060-9-1-0"
-             style="stroke-width:1.41421;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.8;"
+             style="opacity:0.8;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.41421"
              d="m 1158.3295,1047.1593 h 36 v 9.9999 h -36 z"
              sodipodi:nodetypes="ccccc"
              class="ColorScheme-Background" />
@@ -1297,12 +1297,12 @@
          width="1"
          id="rect981"
          transform="scale(1,-1)"
-         style="stroke-width:1.41422;fill-opacity:0.25098041;fill:#5f8dd3;opacity:1"
+         style="opacity:1;fill:#5f8dd3;fill-opacity:0.25098;stroke-width:1.41422"
          class="ColorScheme-Text" />
     </g>
     <g
        id="top"
-       transform="matrix(0.74999326,0,0,1,251.58845,-90.999935)">
+       transform="matrix(0.96092478,0,0,1.2812445,39.634122,-415.28866)">
       <g
          id="g11"
          transform="matrix(0,-1,1.111112,0,-182.51487,2337.4893)">
@@ -1311,7 +1311,7 @@
            transform="matrix(0,0.99999908,-1,0,2249.489,-99.168938)">
           <path
              id="rect1060-9-1-3-6"
-             style="stroke-width:1.41421;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.8;"
+             style="opacity:0.8;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.41421"
              d="m 1158.3296,1047.1592 h 36 v 9.9999 h -36 z"
              sodipodi:nodetypes="ccccc"
              class="ColorScheme-Background" />
@@ -1331,12 +1331,12 @@
          width="1"
          id="rect981-9"
          transform="matrix(0,-1,-1,0,0,0)"
-         style="stroke-width:1.41422;fill-opacity:0.25098041;fill:#5f8dd3;opacity:1"
+         style="opacity:1;fill:#5f8dd3;fill-opacity:0.25098;stroke-width:1.41422"
          class="ColorScheme-Text" />
     </g>
     <g
        id="bottom"
-       transform="matrix(0.99999108,0,0,1,-1.9912736,-90.999935)">
+       transform="matrix(1.2812331,0,0,1.2812445,-285.26289,-415.28866)">
       <g
          id="g12"
          transform="matrix(0,1,1.1111121,0,-182.51498,-17.169922)">
@@ -1345,7 +1345,7 @@
            transform="matrix(0,0.99999908,-1,0,2249.489,-99.168938)">
           <path
              id="rect1060-9-1-3"
-             style="stroke-width:1.24499;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.8;"
+             style="opacity:0.8;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.24499"
              d="m 1162.8291,1047.1597 h 27 v 10 h -27 z"
              sodipodi:nodetypes="ccccc"
              class="ColorScheme-Background" />
@@ -1365,12 +1365,12 @@
          width="1"
          id="rect981-9-6"
          transform="matrix(0,-1,-1,0,0,0)"
-         style="stroke-width:1.22475;fill-opacity:0.25098041;fill:#5f8dd3;opacity:1"
+         style="opacity:1;fill:#5f8dd3;fill-opacity:0.25098;stroke-width:1.22475"
          class="ColorScheme-Text" />
     </g>
     <g
        id="right"
-       transform="matrix(0.99999108,0,0,0.75000021,-1.9912736,199.0396)">
+       transform="matrix(1.2812331,0,0,0.96093368,-285.26356,-43.677037)">
       <g
          transform="matrix(1,0,0,1.1111118,-162.99949,-36.685272)"
          id="g13">
@@ -1379,7 +1379,7 @@
            transform="matrix(0,0.99999908,-1,0,2249.489,-99.168938)">
           <path
              id="rect1060-9-1"
-             style="stroke-width:1.41418;stroke:none;fill-opacity:1;fill:currentColor;opacity:0.8;"
+             style="opacity:0.8;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.41418"
              d="m 1158.3296,1047.16 h 35.9982 v 10 h -35.9982 z"
              sodipodi:nodetypes="ccccc"
              class="ColorScheme-Background" />
@@ -1399,7 +1399,7 @@
          width="1"
          id="rect981-6"
          transform="scale(1,-1)"
-         style="stroke-width:1.41422;fill-opacity:0.25098041;fill:#5f8dd3;opacity:1"
+         style="opacity:1;fill:#5f8dd3;fill-opacity:0.25098;stroke-width:1.41422"
          class="ColorScheme-Text" />
     </g>
   </g>
