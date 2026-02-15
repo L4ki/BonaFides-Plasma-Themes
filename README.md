@@ -40,4 +40,9 @@ Screenshots:
 
 <img width="1911" height="918" alt="logo-1" src="https://github.com/user-attachments/assets/12a1569b-3ec9-43ce-89cb-98109b6f8b41" />
 
+<img width="1920" height="1080" alt="logo-2" src="https://github.com/user-attachments/assets/2566cce3-523f-418a-8054-5c76dbec19e4" />
+
+<img width="1920" height="1080" alt="logo-1" src="https://github.com/user-attachments/assets/997765c5-aa9a-4adf-8c5b-19f3963b2277" />
+
+<img width="1920" height="1080" alt="logo-1" src="https://github.com/user-attachments/assets/1e395f49-a69b-4348-a593-c9e423571d81" />
 
